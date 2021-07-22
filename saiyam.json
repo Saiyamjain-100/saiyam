@@ -1,0 +1,85 @@
+{
+    "basics": {
+        "name": "Saiyam jain",
+        "label": "Student",
+        "email": "2019kuec2048@iiitkota.ac.in",
+        "phone": "+919109303308",
+        "website": "https://thegauravparmar.com",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronic and communication Engineering. Learing Data structures and Algorithms. I have enthusiasm in Competitive Coding and working on my coding skills .",
+        "location": {
+            "address": "Bina",
+            "postalCode": "470113",
+            "city": "Bina",
+            "countryCode": " India",
+            "region": "Madhya pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "Saiyam jain",
+                "url": "https://twitter.com/Saiyamj04887869"
+            },
+            {
+                "network": "Github",
+                "username": "saiyamjain-100",
+                "url": "https://github.com/Saiyamjain-100"
+            },
+            {
+                "network": "linkedin",
+                "username": "saiyam jain",
+                "url": "https://www.linkedin.com/in/saiyam-jain-0ab2b5215/"
+            },
+            {
+                "network": "Instagram",
+                "username": "Saiyam jain",
+                "url": "https://www.instagram.com/saiyamjain1235/"
+            }
+        ]
+    },
+        "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "gpa": "8.18",
+            "courses": [
+                "Electronic and communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "Name":"Developer",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sketching",
+            "keywords": [
+                "Sketching"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Badminton",
+                "Chess",
+		    "Basketball",
+		    "Cricket"     
+            ]
+        }
+    ],
+    "references": []
+}
