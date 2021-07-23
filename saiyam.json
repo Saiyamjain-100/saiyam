@@ -2,9 +2,8 @@
     "basics": {
         "name": "Saiyam jain",
         "label": "Student",
-        "email": "2019kuec2048@iiitkota.ac.in",
+        "email": "2020kuec2048@iiitkota.ac.in",
         "phone": "+919109303308",
-        "website": "https://thegauravparmar.com",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronic and communication Engineering. Learing Data structures and Algorithms. I have enthusiasm in Competitive Coding and working on my coding skills .",
         "location": {
             "address": "Bina",
@@ -54,6 +53,7 @@
             "keywords": [
                 "HTML",
                 "CSS",
+		    "javascript",
                 "C/C++"
             ]
         }
